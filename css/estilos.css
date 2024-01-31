@@ -1,0 +1,9 @@
+.contenedor a{/*selector combinado*/
+    text-decoration: none; /*elimina el subrayado*/
+    color: darksalmon; /* color*/
+    font-weight:  bold;/*Negritas*/font-size: 20px;} /*tamaño*/
+h2 {color: goldenrod;}
+p  {font-size: 18px; color: darkblue;}
+h3 {color: burlywood; text-align: center;} /*centra el texto*/
+.contenedor2 p{color: chocolate ;}
+.contenedor2 a{color: rgb(184, 84, 99); text-decoration: none;}
